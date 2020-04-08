@@ -19,7 +19,7 @@ AWS、Terraform、Docker、Go、Pythonなど
 
 Sier: 13年 -> 事業会社: 5年 -> 独立: 4年
 
-- 体得している技術は古代で言うところのインフラ、現世で言うところのSRE/DevOps関連
+- 体得している技術は古代で言うところのインフラ、現世で言うところのDevOps/SRE関連
 - 大手からベンチャーまで20以上を経験しており各種現場における流儀作法を会得
 - AWSなどクラウド系のリソースを組み合わせつつ隙間をGo/Python等で繋ぎこむのが得意
 - 近年はオンプレ->クラウドやコンテナ化などのシステム移行業務が多い
@@ -64,5 +64,8 @@ Sier: 13年 -> 事業会社: 5年 -> 独立: 4年
 
 ## 連絡先
 
-twitter: @komapotter
-github:  github.com/komapotter
+- mail: 36rafts@gmail.com
+
+- twitter: @komapotter
+
+- github: github.com/komapotter
