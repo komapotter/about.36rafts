@@ -39,7 +39,7 @@ Sier: 13 年 -> 事業会社: 5 年 -> 独立: 7 年
 - **健康支援アプリ インフラ支援(2018/06 ~ now)**
 
   - コンテナ基盤構築, データ基盤開発, 負荷試験, 運用支援
-  - AWS ECS, AWS Glue, Go, locust
+  - AWS ECS, github actions, CircleCI, AWS Glue, Go, locust
 
 - 子育て支援サイト インフラ支援(2023/09 ~ 2023/09)
 
@@ -105,7 +105,7 @@ Sier: 13 年 -> 事業会社: 5 年 -> 独立: 7 年
 - BYOD
 
   - 作業効率やセキュリティのため 14inch macbook pro M1Max 2021(Mem64GB)を設備導入。
-  - 顧客先に闘えるスペックの PC(Mem32GB 以上)があればそちらを使うのも可。
+  - 余裕のあるスペックのPC(Mem32GB 以上)が顧客先にあればそちらを使うのも可。
 
 - フルタイム不可
   - 事業ポートフォリオの観点から常に複数案件に携わる営業方針
@@ -123,8 +123,8 @@ Sier: 13 年 -> 事業会社: 5 年 -> 独立: 7 年
 
 - email: 36rafts@gmail.com
 
+- Bluesky: @36rafts.com
+
+- GitHub: github.com/komapotter
+
 - X(ex:twitter): @komapotter
-
-- Bluesky: @komapotter
-
-- github: github.com/komapotter
